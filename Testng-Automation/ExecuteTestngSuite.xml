@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestCases">
+	<test name="CreateDeleteUsers">
+		<classes>
+			<class name="com.sgtesting.parameterization.LoginCreateDeleteUserLogoutScenario"></class>
+			<class name="com.sgtesting.parameterization.CreateModifyDeleteUser"></class>
+			<class name="com.sgtesting.parameterization.CreateDeleteCustomer"></class>
+			<class name="com.sgtesting.parameterization.CreateModifyDeleteCustomer"></class>
+			<class name="com.sgtesting.parameterization.CreateDeleteCustomerCreateDeleteProject"></class>
+			<class name="com.sgtesting.parameterization.CreateDeleteCustomerCreateModifyDeleteProject"></class>
+			<class name="com.sgtesting.parameterization.CreateDeleteCustomerProjectTasks"></class>	 
+	</classes>
+</test>
+</suite>

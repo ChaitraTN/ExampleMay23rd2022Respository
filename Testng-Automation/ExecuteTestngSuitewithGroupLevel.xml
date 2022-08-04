@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testcases">
+	<groups>
+		<run>
+			<include name="smoke">
+			</include>
+		</run>
+	</groups>
+	<test name="group testcases">
+		<classes>
+			<class name="com.sgtesting.groupsdemo.GroupsDemo">
+			</class>
+		</classes>
+	</test>
+</suite>
